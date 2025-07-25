@@ -181,6 +181,12 @@ const InvoiceModal = ({
                           : invoiceInfo.total.toFixed(2)}
                       </span>
                     </div>
+                     <div className="flex w-full justify-between border-t border-black/10 py-2">
+                      <span> We kindly request that you settle the invoice as soon as possible. Please let us know if you have any questions :</span>
+                       <span className="font-bold">Bank: MALDIVES ISLAMIC BANK</span>
+                       <span className="font-bold">Account Name: AKK MALDIVES</span>
+                       <span className="font-bold">Account Number: 90501400033571000 </span>
+                      <span className="font-bold">
                   </div>
                 </div>
               </div>
